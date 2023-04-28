@@ -8,4 +8,6 @@ public class Supermarket {
     // discounts
     // prices
     // bs
+
+    // parking spot
 }
