@@ -3,4 +3,9 @@ public class Supermarket {
     // oranges
     // watermelon
     // blablblllaaa
+
+
+    // discounts
+    // prices
+    // bs
 }
